@@ -9,12 +9,5 @@
     "service_worker": "background.js"
   },
   "permissions": ["activeTab", "clipboardWrite", "scripting", "tabs"],
-  "host_permissions": ["http://*/*", "https://*/*"],
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "all_frames": true,
-      "js": ["content.js"]
-    }
-  ]
+  "host_permissions": ["http://*/*", "https://*/*"]
 }
