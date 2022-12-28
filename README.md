@@ -1,2 +1,3 @@
-# soundcloud-cover-art-getter
-Chrome Extention for Getting Cover Art from SoundCloud .
+# SoundCloud Cover Art Getter
+
+Chrome Extention for Getting Cover Art from SoundCloud.
